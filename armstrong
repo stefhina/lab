@@ -6,13 +6,13 @@
 
 void main()
 {
-int num,rem,sum,temp;
+int number,rem,sum,temp;
 
 
 
-for(num=100;num<=500;num++)
+for(num=100; number<=500; number++)
 	{
-	temp=num;
+	temp=number;
 	sum=0;
 	while(temp!=0)
 		
@@ -24,21 +24,7 @@ for(num=100;num<=500;num++)
 		sum+=(rem*rem*rem);
 	}
 	if(num==sum)
-		printf("%d\n",num);
+		printf("%d\n", number);
 	}
 
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
