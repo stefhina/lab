@@ -6,7 +6,7 @@
 void main()
 {
 int num,rem,rev=0,num;
-printf("enter number to be    reversed:");
+printf("enter number to be  reversed:");
 scanf("%d",&num);
 num=num;
 while(num>0)
