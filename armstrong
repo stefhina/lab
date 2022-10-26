@@ -6,9 +6,10 @@
 
 void main()
 {
-int number,rem,sum,temp;
+int number,rem,sum,temp,num;
 
-number=num;
+num=number;
+
 
 for(num=100;num<=500;num++)
 	{
