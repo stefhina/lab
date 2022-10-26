@@ -16,7 +16,7 @@ while(num>0)
 	rev=rev*10+rem;
 }
 if(number==rev)
-	printf("the given number %d is palindrome number",number);
+	printf("the  number %d is palindrome number",number);
 else
 	printf("the given number %d is not a palindrome number",number);
 }
