@@ -5,10 +5,10 @@
 
 void main()
 {
-int num,rem,rev=0,number;
+int num,rem,rev=0,num;
 printf("enter number to be    reversed:");
 scanf("%d",&num);
-number=num;
+num=num;
 while(num>0)
 {
 	rem=num%10;
