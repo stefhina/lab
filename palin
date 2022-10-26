@@ -13,8 +13,8 @@ while(num>0)
 {
 	rem=num%10;
 	num=num/10;
-	rev=rev*10+rem;
-}
+	rev=rev*10+rem;}
+
 if(number==rev)
 	printf("the  number %d is palindrome number",number);
 else
